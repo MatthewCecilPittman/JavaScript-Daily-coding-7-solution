@@ -1,0 +1,1 @@
+# JavaScript-Daily-coding-7-solution
